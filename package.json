@@ -1,0 +1,10 @@
+{
+  "name": "bleach-property",
+  "version": "1.0.2",
+  "type": "module",
+  "main": "api/cache.js",
+  "scripts": {
+    "start": "node api/cache.js"
+  },
+  "dependencies": {}
+}
